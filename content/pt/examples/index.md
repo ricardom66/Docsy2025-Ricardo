@@ -1,11 +1,11 @@
 ---
-title: Examplos
+title: Exemplos
 weight: 1
 description: See your project in action!
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="Sobre Goldydocs" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="Vários Exemplos" image_anchor="bottom" height="auto" %}}
 
 Sobre o Goldydocs
 {.mt-5}
